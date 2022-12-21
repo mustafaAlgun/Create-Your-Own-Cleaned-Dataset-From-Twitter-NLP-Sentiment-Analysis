@@ -9,8 +9,6 @@
     <a href="https://user-images.githubusercontent.com/32036535/87276097-dd011780-c49c-11ea-980f-6b27e617faad.png"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/mustafaAlgun/Create-Your-Own-Cleaned-Dataset-From-Twitter-NLP-Sentiment-Analysis">View Demo</a>
-    .
     <a href="https://github.com/mustafaAlgun/Create-Your-Own-Cleaned-Dataset-From-Twitter-NLP-Sentiment-Analysis/issues">Report Bug</a>
     .
     <a href="https://github.com/mustafaAlgun/Create-Your-Own-Cleaned-Dataset-From-Twitter-NLP-Sentiment-Analysis/issues">Request Feature</a>
@@ -31,6 +29,8 @@
 * [Authors](#authors)
 
 ## About The Project
+
+![Tweepy](https://user-images.githubusercontent.com/32036535/87276097-dd011780-c49c-11ea-980f-6b27e617faad.png)
 
 In this project, 
 
